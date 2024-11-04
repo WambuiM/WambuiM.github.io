@@ -10,7 +10,7 @@ image: https://i.imgur.com/1PpLsI9.jpg
 
 ![Alt Text](https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8dGVjaHxlbnwwfHwwfHx8MA%3D%3D){:width="900px"height="200px"}
 
-Hey there! 👋 Welcome to my space, I’m Shawn, your friendly guide through the ever-evolving world of technology. With a passion for innovation and a knack for simplifying complex concepts, I aim to make tech accessible and enjoyable for everyone. Whether you’re a seasoned developer or just starting your journey, there’s something here for you.
+Hey there! 👋 Welcome to my space, I’m Wambui, your friendly guide through the ever-evolving world of technology. With a passion for innovation and a knack for simplifying complex concepts, I aim to make tech accessible and enjoyable for everyone. Whether you’re a seasoned developer or just starting your journey, there’s something here for you.
 
 ## What You’ll Find Here
 
