@@ -3,7 +3,7 @@ title: MY FIRST BLOG
 categories: [ Documentation]
 tags: [Web Development,Docker,load testing,Automation, Python , C# , .NET ,JavaScript , SQL , Angular , PHP Talks about,devops,  dotnet ,Tech stuff in general #angular
 ] # TAG names should always be lowercase
-image: https://media.istockphoto.com/id/1399211832/vector/asset-allocation-investment.jpg
+image: https://media.istockphoto.com/id/1399211832/vector/asset-allocation-investment.jpg?s=612x612&w=0&k=20&c=ZTU7SoG9BcL1kVCHTBOVe5SebYRzRATpbVaNolCKHKI=
 ---
 
 # Welcome to my Space
