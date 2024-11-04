@@ -3,7 +3,7 @@ title: A general Overview of Optimal Asset Allocation
 categories: [ Financial Markets]
 tags: [ Asset allocation
 ] 
-image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fgetting-your-asset-allocation-correct-key-matthew-matthee&psig=AOvVaw2ziywkhoghO7-pHSYmuvKc&ust=1730820845160000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCcg6WAw4kDFQAAAAAdAAAAABAJ
+image: https://media.licdn.com/dms/image/v2/D5612AQEeJ3VVUtWQ7g/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1683459033420?e=2147483647&v=beta&t=lnbFC-yOlPI9XP5DN2TiqwF5GKiimy3QlbQHFGi2QUw
 ---
 
 ## A general Overview of Optimal Asset Allocation
