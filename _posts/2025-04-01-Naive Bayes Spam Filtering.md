@@ -45,7 +45,7 @@ Estimate class prior probabilities (likelihood of an email being spam or non-spa
 Given a new email, extract words and compute the probability that the email belongs to either class (spam or not spam).
 
 Use Bayes’ Theorem to compute the posterior probability:
-![](/WambuiM.github.io/images/FG.png)
+![](/images/FG.png)
 
 The email is classified as spam if 
 𝑃
@@ -316,7 +316,7 @@ seaborn.heatmap(conf,annot=True,fmt=".1f",linewidths=1.5)
 import matplotlib.pyplot as plt
 plt.show()
 ```
-![](/WambuiM.github.io/images/confusionmatrix.png)
+![](/images/confusionmatrix.png)
 
 A function to test the model
 
