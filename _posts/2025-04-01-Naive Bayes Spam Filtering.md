@@ -3,7 +3,7 @@ title: A general Overview of Optimal Asset Allocation
 categories: [ Financial Markets]
 tags: [ Asset allocation
 ] 
-image: /WambuiM.github.io/images/NaiveBayes.png
+image: ![](/WambuiM.github.io/images/NaiveBayes.png)
 ---
 
 # Naive Bayes Spam Filtering
