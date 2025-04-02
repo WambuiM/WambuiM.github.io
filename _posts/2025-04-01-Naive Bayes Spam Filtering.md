@@ -24,7 +24,7 @@ P(W|H) is the probability that the specific word appears in ham messages.
 P(H)  is the overall probability that any given message is ham.
 
 We want our filter to be unbiased toward incoming email, so we are going to assume that the probabilities of receiving both spam and ham are equal to 50%. This allows us to simplify the formula to the following:
-![](/WambuiM.github.io/images//SIMPLIFIEDFORMULA.png)
+![](/WambuiM.github.io/images/SIMPLIFIEDFORMULA.png)
 
 
 Now to the implementation.
