@@ -1,15 +1,15 @@
 ---
-title: A general Overview of Optimal Asset Allocation
-categories: [ Financial Markets]
-tags: [ Asset allocation
+title: Naive Bayes Spam Filtering
+categories: [ Bayes Theorem]
+tags: [ Naive Bayes
 ] 
-image: ![](/WambuiM.github.io/images/NaiveBayes.png)
+image: ![](/images/NaiveBayes.png)
 ---
 
 # Naive Bayes Spam Filtering
 The following is a step by step quide for spam fitering using Naive Bayes. Refer to the previous posts for a deeper explanation on Bayes Theorem and Naive Bayes. In spam filtering we want to find the likelihood of specific message being spam. But a message consists of multiple words. In order to find the combined probability of the words we first have to find the probability of each separate word being a spam word. This is sometimes called spaminess of a word. we can calculate it by using a special case of Bayes Theorem where the event is a binary variable.
 
-![](/WambuiM.github.io/images/BTBINARY.png)
+![](/images/BTBINARY.png)
 
 where,
 
@@ -24,7 +24,8 @@ P(W|H) is the probability that the specific word appears in ham messages.
 P(H)  is the overall probability that any given message is ham.
 
 We want our filter to be unbiased toward incoming email, so we are going to assume that the probabilities of receiving both spam and ham are equal to 50%. This allows us to simplify the formula to the following:
-![](/WambuiM.github.io/images/SIMPLIFIEDFORMULA.png)
+
+![](/images/SIMPLIFIEDFORMULA.png)
 
 
 Now to the implementation.
