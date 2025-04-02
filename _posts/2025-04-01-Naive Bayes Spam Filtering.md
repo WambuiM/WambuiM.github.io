@@ -3,7 +3,7 @@ title: Naive Bayes Spam Filtering
 categories: [ Bayes Theorem]
 tags: [ Naive Bayes
 ] 
-image: /images/NaiveBayes.png
+image: /images/NaiveBayes1.png
 ---
 
 # Naive Bayes Spam Filtering
