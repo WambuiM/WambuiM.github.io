@@ -171,7 +171,7 @@ plt.legend()
 plt.tight_layout()
 plt.show()
 ```
-![](trendline.png)
+![](/images/trendline.png)
 
 
 Next, we create a list of approximately 60 SciPy distributions that we want to use with the fitter, and import them accordingly.
@@ -421,7 +421,7 @@ plot_fitted_pdf(df_ks, saf_df2024)
 pass
 ```
 
-![](Distributions.png)
+![](/images/Distributions.png)
  
  
  Select distribution with the highest pvalue and its parameters
