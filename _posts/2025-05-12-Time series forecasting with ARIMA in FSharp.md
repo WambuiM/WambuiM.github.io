@@ -34,17 +34,18 @@ ARIMA combines the concepts of autoregressive (AR), integrated (I), and moving a
 
 **Autoregressive (AR):** Autoregressive models look back in time and analyze the previous values in the dataset. The model makes assumptions about these lagged values to predict the future. It is represented by:
 
-![](AR.png)
+![](/images/AR.png) 
 
 **Integrated (I):** The integrated aspect of ARIMA refers to the differencing steps applied to the data to make it stationary. By integrating, or differencing, the data, we eliminate trends and seasonality, thereby stabilizing the mean of the time series.
 
 **Moving Average (MA):** The moving average component of ARIMA analyzes the past and current values of lagged variables to determine the output variable. It considers the weighted average of the residuals from the previous predictions to make the current prediction.
 
-![](MA.png)
+![](/images/MA.png)
 
 By combining these three components, ARIMA models can capture the underlying patterns and dependencies in time series data, allowing us to make accurate forecasts.
 This combination is represented by:
-![](ARIMA.png)
+
+![](/images/ARIMA.png)
 
 #### Practical example in f#
 Import packages and create the differencing function
