@@ -3,7 +3,7 @@ title: Time series forecasting with ARIMA in FSharp
 categories: [ Time series]
 tags: [ Time series, Time series forecasting]
 
-image: /images/TimeSeriesAnalysis.png.png
+image: /images/TimeSeriesAnalysis.png
 ---
 
 # Time series forecasting with ARIMA in FSharp
