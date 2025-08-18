@@ -29,7 +29,7 @@ Complex numbers obey the same algebraic rules as real numbers, with one twist:  
     *(a + bi) + (c + di) = (ac - bd) + (ad + bc)i*
 * Division:
 
-![](/WambuiM.github.io/images/Division.png)
+![](/images/Division.png)
      
 The concept of the complex conjugate, z=a−bi, is crucial for simplifying divisions.
 
