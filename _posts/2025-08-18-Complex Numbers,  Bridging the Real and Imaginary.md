@@ -3,7 +3,7 @@ title: Complex Numbers; Bridging the Real and Imaginary
 categories: [ Complex Numbers]
 tags: [ Complex Numbers, Imaginary Numbers, Finance]
 
-image: WambuiM.github.io/images/imaginaryNumbers.png
+image: /images/imaginaryNumbers.png
 ---
 
 # Complex Numbers: Bridging the Real and Imaginary
@@ -39,21 +39,21 @@ Complex numbers are more than abstract symbols—they can be visualized. If we t
 
 The magnitude (or modulus) of: z=a+bi is:
 
-![](/WambuiM.github.io/images/modulus.png)
+![](/images/modulus.png)
 
 and the argument (or angle) is:
 
-![](/WambuiM.github.io/images/Arguments.png)
+![](/images/Arguments.png)
 
 This gives rise to the polar form:
 
-![](/WambuiM.github.io/images/PolarForm.png)   
+![](/images/PolarForm.png)   
 
 #### Euler’s Formula: Where Math Meets Beauty
 
 One of the most elegant results in mathematics is Euler’s Formula:
 
-![](/WambuiM.github.io/images/EulersFormular.png)
+![](/images/EulersFormular.png)
 
 It connects exponential functions, trigonometry, and complex numbers in a single stroke. A special case gives the famous Euler’s Identity:
 
@@ -77,7 +77,7 @@ Financial time series (returns, volatility, FX rates, etc.) are not purely rando
 Fourier analysis breaks a signal 
 *f(t)* into a **sum of oscillations** (frequencies), each represented using complex numbers:
 
-![](/WambuiM.github.io/images/FullerInFinance.png)
+![](/images/FullerInFinance.png)
 
 This decomposition is powerful because **complex exponentials are eigen functions** of many linear operators — differentiation, convolution, etc. That makes filtering, forecasting, and smoothing easier.
 
@@ -87,7 +87,7 @@ Spectral Density Estimation:
 For a return series 
 𝑟𝑡, its autocovariance function can be transformed via Fourier analysis to estimate its spectral density:
 
-![](/WambuiM.github.io/images/SpectralDensity.png)
+![](/images/SpectralDensity.png)
 
 where γ(k) is the autocovariance at lag 𝑘 This reveals which frequencies dominate volatility or returns.
 
@@ -100,7 +100,7 @@ where γ(k) is the autocovariance at lag 𝑘 This reveals which frequencies dom
 
 Option pricing involves computing expectations of payoff functions under risk-neutral measures:
 
-![](/WambuiM.github.io/images/functionUnderRiskNeutral.png)
+![](/images/functionUnderRiskNeutral.png)
 
 Where where: 𝑆𝑇 = stock price at maturity 𝑇
 
@@ -112,7 +112,7 @@ If the distribution of 𝑆𝑇is known, this expectation can be evaluated. But 
 
 **Enter the characteristic function:**
 
-![](/WambuiM.github.io/images/CharacteristicFunction.png)
+![](/images/CharacteristicFunction.png)
 
 
 for random variable X = ln 𝑆𝑇.
@@ -127,7 +127,7 @@ Since
 
 The Carr–Madan approach (1999) is a cornerstone. They expressed the option price as the Fourier transform of the modified payoff function:
 
-![](/WambuiM.github.io/images/FourierBasedPricing.png)
+![](/images/FourierBasedPricing.png)
 
 where:
 
@@ -143,9 +143,9 @@ This turns option pricing into a problem solvable with FFT (Fast Fourier Transfo
 
 In the Heston model (stochastic volatility), the characteristic function of ln 𝑆𝑇 is known in closed form:
 
-![](/WambuiM.github.io/images/HestonModel.png)
+![](/images/HestonModel.png)
 
-![](/WambuiM.github.io/images/HestonModelParameters.png)
+![](/images/HestonModelParameters.png)
 
 This formula looks intimidating, but because it’s a characteristic function, FFT methods can **price a whole strip of options** (many strikes) efficiently.
 
