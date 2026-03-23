@@ -1,8 +1,7 @@
 ---
-title: Fundamental Analysis-Understanding the True Value of Investments
+title: Fundamental Analysis Understanding the True Value of Investments
 categories: [ Fundamental Analysis]
-tags: [ Financial Market
-] 
+tags: [ Financial Market] 
 image: /images/FA.png
 ---
 

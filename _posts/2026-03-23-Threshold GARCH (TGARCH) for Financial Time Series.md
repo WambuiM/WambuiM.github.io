@@ -1,8 +1,7 @@
 ---
 title: Threshold GARCH for Financial Time Series
 categories: [Time series analysis, TGARCH]
-tags: [ Financial Market, Time Series
-] 
+tags: [ Financial Market, Time Series] 
 image: /images/Tgarch.png
 ---
 
