@@ -1,5 +1,5 @@
 ---
-title: Threshold GARCH (TGARCH) for Financial Time Series
+title: Threshold GARCH-TGARCH- for Financial Time Series
 categories: [Time series analysis, TGARCH]
 tags: [ Financial Market, Time Series
 ] 
