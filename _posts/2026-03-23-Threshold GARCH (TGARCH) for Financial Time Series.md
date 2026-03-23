@@ -175,3 +175,6 @@ While more complex models exist, TGARCH remains a powerful and practical tool. I
 Risk is not symmetric—and your models shouldn’t be either.
 
 If you're working on quantitative finance or time series modeling, TGARCH is not just an optional extension—it’s often a necessary upgrade to properly understand and model financial volatility.
+
+
+
